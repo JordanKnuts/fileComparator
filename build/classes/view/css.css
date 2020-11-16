@@ -1,0 +1,18 @@
+.PARTIAL_SAME {
+    -fx-text-fill: orange;
+}
+
+.SAME {
+    -fx-text-fill: green;
+}
+
+.ORPHAN {
+    -fx-text-fill: violet;
+}
+
+.OLDER{
+    -fx-text-fill: red;
+}
+.NEWER{
+    -fx-text-fill: brown;
+}
